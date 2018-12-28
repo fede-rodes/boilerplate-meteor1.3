@@ -1,5 +1,7 @@
 ### Boilerplate for Meteor 1.3, React, FlowRouter and ES6
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/fede-rodes/boilerplate-meteor1.3.svg)](https://greenkeeper.io/)
+
 ## Clone repo
 1. cd to your meteor projects folder
 2. git clone https://github.com/fede-rodes/boilerplate-meteor1.3.git
