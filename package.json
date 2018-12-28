@@ -6,10 +6,10 @@
     "pretest": "npm run lint --silent"
   },
   "dependencies": {
-    "meteor-node-stubs": "~0.2.0",
-    "react": "^15.0.1",
+    "meteor-node-stubs": "~0.4.1",
+    "react": "^16.7.0",
     "react-addons-pure-render-mixin": "^15.0.1",
-    "react-dom": "^15.0.1",
+    "react-dom": "^16.7.0",
     "react-mounter": "^1.2.0"
   },
   "eslintConfig": {
@@ -23,8 +23,8 @@
     "rules": {}
   },
   "devDependencies": {
-    "eslint": "^2.8.0",
-    "eslint-plugin-meteor": "^3.5.2",
-    "eslint-plugin-react": "^5.0.1"
+    "eslint": "^5.11.1",
+    "eslint-plugin-meteor": "^5.1.0",
+    "eslint-plugin-react": "^7.12.0"
   }
 }
